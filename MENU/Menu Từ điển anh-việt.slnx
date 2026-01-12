@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="Menu Từ điển anh-việt/Menu Từ điển anh-việt.vcxproj" />
+</Solution>
