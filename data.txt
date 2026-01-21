@@ -1,0 +1,68 @@
+ASCII;Bang ma trao doi thong tin My
+Array;Mang du lieu
+API;Giao dien lap trinh ung dung
+Algorithm;Thuat toan
+Byte;Don vi luu tru (8 bit)
+Bug;Loi phan mem
+Browser;Trinh duyet Web
+Bit;Don vi thong tin nho nhat
+Binary;He nhi phan
+Bandwidth;Bang thong
+CPU;Bo vi xu ly trung tam
+Compiler;Trinh bien dich
+Cloud;Dien toan dam may
+Cache;Bo nho dem
+Driver;Trinh dieu khien thiet bi
+DNS;He thong ten mien
+Debug;Go loi chuong trinh
+Deadlock;Tac nghen (trong he dieu hanh)
+Database;Co so du lieu
+Ethernet;Mang cuc bo co day
+Encryption;Ma hoa du lieu
+Function;Ham (trong lap trinh)
+Firmware;Phan mem dieu khien phan cung
+Firewall;Tuong lua
+Gateway;Cong ket noi mang
+HTML;Ngon ngu danh dau sieu van ban
+Hash;Bam (ky thuat anh xa du lieu)
+Hardware;Phan cung may tinh
+IP;Dia chi Giao thuc Internet
+Internet;Mang luoi toan cau
+Interface;Giao dien
+Keyboard;Ban phim
+Kernel;Nhan he dieu hanh
+Loop;Vong lap
+Linux;He dieu hanh ma nguon mo
+Latency;Do tre mang
+Mouse;Chuot may tinh
+Monitor;Man hinh
+Memory;Bo nho
+Malware;Phan mem doc hai
+Node;Nut (trong cau truc du lieu)
+Network;Mang may tinh
+Operating System;He dieu hanh
+Object;Doi tuong (trong OOP)
+Python;Ngon ngu lap trinh Python
+Protocol;Giao thuc mang
+Pointer;Con tro
+Pixel;Diem anh
+Password;Mat khau
+Packet;Goi tin
+Queue;Hang doi
+Router;Bo dinh tuyen
+ROM;Bo nho chi doc
+RAM;Bo nho truy cap ngau nhien
+Syntax;Cu phap
+Stack;Ngan xep
+SSD;O cung the ran
+SQL;Ngon ngu truy van co cau truc
+Software;Phan mem
+Server;May chu
+Thread;Tieu trinh
+Terminal;Giao dien dong lenh
+USB;Chuan ket noi tuan tu da dung
+URL;Duong dan tai nguyen dong nhat
+Virus;Ma doc may tinh
+Variable;Bien
+Wifi;Mang khong day
+Zip;Dinh dang nen du lieu
